@@ -1,4 +1,4 @@
 bst
 ===
-
-A simple binary search tree implementation
+---
+A very simple binary search tree implementation.
